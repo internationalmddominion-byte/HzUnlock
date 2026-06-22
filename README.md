@@ -1,7 +1,7 @@
 # HzUnlock
-![Ko-fi][Ko-fi](https://ko-fi.com/hzunlock)
+![Ko-fi](https://ko-fi.com/hzunlock)
 
->**Did HzUnlock fix your 240Hz bug?**... Buy me a coffee ☕ - It helps me buy more laptops to test!
+> **Did HzUnlock fix your 240Hz bug?**.. Buy me a coffee ☕ - It helps me buy more laptops to test ![Ko-fi](https://ko-fi.com/hzunlock)
 
 One-click tool to fix 240Hz→165Hz bug on Windows 11 laptops
 HzUnlock v1.0 🚀 
