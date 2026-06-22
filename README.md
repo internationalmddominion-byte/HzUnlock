@@ -1,9 +1,10 @@
 # HzUnlock
-[[Ko-fi](https://ko-fi.com/hzunlock)](https://ko-fi.com/hzunlock)
+![Ko-fi](https://ko-fi.com/hzunlock)
 
->  [Buy me a coffee ☕](https://ko-fi.com/hzunlock) - It helps me buy more laptops to test!
+**Did HzUnlock fix your 240Hz bug?**... Buy me a coffee ☕ - It helps me buy more laptops to test!
+
 One-click tool to fix 240Hz→165Hz bug on Windows 11 laptops
-HzUnlock v1.0 🚀
+HzUnlock v1.0 🚀 
 
 Your Victus 16.1 or MSI Sword 16 HX has a 240Hz screen but Windows 11 locks it to 165Hz? HzUnlock fixes it in 3 seconds.
 ### 📥 Download
