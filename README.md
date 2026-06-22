@@ -1,6 +1,6 @@
-<p align="center"> <img src="logo.png" alt="HzUnlock Logo" width="300"> </p>
+<p align="center"> <img src="logo.png" alt="<img width="884" height="772" alt="image" src="https://github.com/user-attachments/assets/d6191a4b-4570-4511-8076-44192e27df07" />
+" width="300"> </p>
 HzUnlock
-[Ko-fi](https://ko-fi.com/hzunlock)
 
 > Did HzUnlock fix your 240Hz bug? Buy me a coffee ☕ - It helps me buy more laptops to test!
 
