@@ -1,5 +1,5 @@
 # HzUnlock
-[[Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/hzunlock)
+[[Ko-fi](https://ko-fi.com/hzunlock)](https://ko-fi.com/hzunlock)
 
 >  [Buy me a coffee ☕](https://ko-fi.com/hzunlock) - It helps me buy more laptops to test!
 One-click tool to fix 240Hz→165Hz bug on Windows 11 laptops
