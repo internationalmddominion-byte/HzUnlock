@@ -9,7 +9,7 @@ HzUnlock v1.0 🚀
 
 📦 Download
 
-⬇️ Download HzUnlock v1.0.exe - 11.4 MB | No Python needed | Portable
+[Download HzUnlock v1.0.exe - 11.4 MB | No Python needed | Portable](https://github.com/internationalmddominion-byte/HzUnlock/releases/download/v1.0/HzUnlock_v1.0.exe)
 
 1.Close all games and apps
 
