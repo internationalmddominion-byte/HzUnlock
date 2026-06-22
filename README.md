@@ -1,19 +1,21 @@
-# HzUnlock
-![Ko-fi](https://ko-fi.com/hzunlock)
+<p align="center"> <img src="logo.png" alt="HzUnlock Logo" width="300"> </p>
+HzUnlock
+[Ko-fi](https://ko-fi.com/hzunlock)
 
-> **Did HzUnlock fix your 240Hz bug?**.. Buy me a coffee ☕-It helps me buy more laptops to test!
+> Did HzUnlock fix your 240Hz bug? Buy me a coffee ☕ - It helps me buy more laptops to test!
 
-One-click tool to fix 240Hz→165Hz bug on Windows 11 laptops
-HzUnlock v1.0 🚀 
+ One-click tool to fix 240Hz→165Hz bug on Windows 11 laptops
+HzUnlock v1.0 🚀
 
-Your Victus 16.1 or MSI Sword 16 HX has a 240Hz screen but Windows 11 locks it to 165Hz? HzUnlock fixes it in 3 seconds.
-### 📥 Download
+ Your Victus 16.1 or MSI Sword 16 HX has a 240Hz screen but Windows 11 locks it to 165Hz? HzUnlock fixes it in 3 seconds.
 
-**[⬇️ Download HzUnlock_v1.0.exe](../../releases/latest)** - 11.4 MB | No Python needed | Portable
- 1. Close all games and apps
- 2. Right-click HzUnlock_v1.0.exe → Run as Administrator
- 3. Click the Unlock 240Hz button
- 4. Done! Go to Display Settings → Advanced Display → 240Hz will be available
+📦 Download
+⬇️ Download HzUnlock v1.0.exe - 11.4 MB | No Python needed | Portable
+
+1.Close all games and apps
+2.Right-click HzUnlock_v1.0.exe → Run as Administrator
+3.Click the Unlock 240Hz button
+4.Done! Go to Display Settings → Advanced Display → 240Hz will be available
 
 ### ⚠️ Important Notes
 
