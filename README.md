@@ -8,7 +8,7 @@ HzUnlock v1.0 🚀
  Your Victus 16.1 or MSI Sword 16 HX has a 240Hz screen but Windows 11 locks it to 165Hz? HzUnlock fixes it in 3 seconds.
 
 📦 Download
-[⬇️ Download HzUnlock v1.0.exe - 11.4 MB] | No Python needed | Portable
+[<⬇️ Download HzUnlock v1.0.exe - 11.4 MB>] | No Python needed | Portable
 
 1.Close all games and apps
 2.Right-click HzUnlock_v1.0.exe → Run as Administrator
