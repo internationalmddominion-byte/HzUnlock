@@ -14,9 +14,13 @@ HzUnlock v1.0 🚀
 📝 How to Use
 
 1.Close all games and apps
+
 2.Right-click HzUnlock_v1.0.exe → Run as Administrator
+
 3.Click the Unlock 240Hz button
+
 4.Done! Go to Display Settings → Advanced Display → 240Hz will be available
+
 
 ### ⚠️ Important Notes
 
