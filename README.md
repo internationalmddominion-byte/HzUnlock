@@ -1,4 +1,4 @@
-3  hzunlock-logo.png
+<p align="center"><img src="hzunlock-logo.png" width="300"></p>
 
 > Did HzUnlock fix your 240Hz bug? Buy me a coffee ☕ - It helps me buy more laptops to test!
 
