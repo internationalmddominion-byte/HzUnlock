@@ -1,6 +1,7 @@
 <p align="center"><img src="hzunlock-logo.png" width="300"></p>
-
-> Did HzUnlock fix your 240Hz bug? Buy me a coffee ☕ - It helps me buy more laptops to test!
+💰 Support MDominion Tech:
+Buy me a coffee: ko-fi.com/hzunlock ☕
+SL Bank: DM to mdominiontech@proton.me
 
  One-click tool to fix 240Hz→165Hz bug on Windows 11 laptops
 HzUnlock v1.0 🚀
