@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="hznunlock-logo.png" width="200" alt="HzUnlock Logo">
+  <img src="hznunlock-logo.png"width="200" alt="HzUnlock Logo">
 </p>
 
 <h1 align="center">HzUnlock v1.0</h1>
