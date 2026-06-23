@@ -1,8 +1,6 @@
-<p align="center"><img src="hzunlock-logo.png" width="300"></p>
 💰 Support MDominion Tech:
 Buy me a coffee: ko-fi.com/hzunlock ☕
 SL Bank: DM to mdominiontech@proton.me
-
  One-click tool to fix 240Hz→165Hz bug on Windows 11 laptops
 HzUnlock v1.0 🚀
 
